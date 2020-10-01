@@ -1,0 +1,7 @@
+AJAX
+//
+AJAX não é uma linguagem de programação
+//
+AJAX é um tecnologia para aceder servidores web apartir de uma página web.
+//
+AJAX Signifca JavaScript assíncrono e XML
